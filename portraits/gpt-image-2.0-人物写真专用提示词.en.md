@@ -69,3 +69,45 @@ Create a cinematic portrait of a young woman sitting alone on a subway platform 
 ```text
 Generate a cinematic storyboard grid showing multiple camera angles of the same character in the same urban setting. Use a 3x4 layout with close-up, extreme close-up, low angle, over-the-shoulder, tracking shot, bird’s-eye view, wide establishing shot, and Dutch angle variations. Keep the same face, outfit, and hairstyle across all frames. Modern spy-thriller mood, realistic skin texture, professional film lighting, cinematic color grading, sharp focus, cohesive character identity, premium storyboard presentation.
 ```
+
+## Web-inspired Additions II
+
+```text
+Create a late-night convenience-store portrait with a solitary subject under cool fluorescent light while warm interior glow spills through the glass. Slightly wet pavement, blue-green and amber contrast, restrained expression, insomnia-film mood.
+```
+
+```text
+Generate a rainy bus-stop portrait with a person standing beneath a transparent shelter, slightly wet hair, neon reflections on the ground, and passing vehicles blurred in the background. Quiet, isolated, cinematic stillness.
+```
+
+```text
+Create a narrow apartment-hallway portrait lit by warm ceiling bulbs. The subject leans against a door in dark knitwear, looking toward the camera with understated tension. Indie-film poster energy.
+```
+
+```text
+Generate a cold morning portrait on a riverside path in light fog. Trees and street lamps dissolve into the mist, muted blue-gray palette, emotional distance, European festival-film feeling.
+```
+
+```text
+Create a close portrait partially veiled by sheer curtains. Natural light falls across the face and hand, minimalist composition, intimate art-photography mood.
+```
+
+```text
+Generate a late-night taxi back-seat portrait with neon and streetlight reflections layered across the window glass. Half the face lit, half in shadow, urban emotional-cinema atmosphere.
+```
+
+```text
+Create a windy rooftop portrait at dusk with the subject’s coat and hair blown sideways. Low sky pressure, clean composition, sharply readable silhouette, youth-film edge.
+```
+
+```text
+Generate a cafe-window portrait with a subject seated inside while rain blurs the city lights outside. Warm interior side-light, gentle melancholy, lifestyle-editorial softness.
+```
+
+```text
+Create an empty-subway-car portrait with the subject sitting alone at the end of the carriage. Cool white carriage lighting, strong symmetry, quiet cinematic frame.
+```
+
+```text
+Generate a gray-sky seaside portrait with a subject in a light knit sweater standing in strong wind. Desaturated horizon, open empty space, Nordic lifestyle-campaign atmosphere.
+```

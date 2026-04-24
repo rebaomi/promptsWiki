@@ -101,3 +101,45 @@ Create a premium coffee machine lifestyle ad with a matte black espresso machine
 ```text
 Generate a social-ad cover image for a three-piece skincare set floating over a warm beige gradient background. Soft shadow underneath, centered composition, clean negative space for marketing copy, polished campaign finish.
 ```
+
+## Category-specific Additions
+
+```text
+Create a high-end fashion ecommerce hero with a model wearing an ivory coat inside a minimal architectural space. Clean background, crisp fabric texture, premium apparel-homepage mood.
+```
+
+```text
+Generate a flat-lay apparel product image of a premium knit sweater on a pale gray backdrop. Natural folds, visible texture, clean catalog styling.
+```
+
+```text
+Create a jewelry earring ad with a pair of gold earrings floating against a dark background. Focused top light, crisp edge highlights, luxurious but minimal.
+```
+
+```text
+Generate a close-up necklace detail image focusing on diamond facets, chain texture, and skin-contact realism. Soft blur behind, premium jewelry-detail-page finish.
+```
+
+```text
+Create a home-fragrance and ceramic still life with a candle, diffuser bottle, and ceramic tray on a wooden table. Warm lifestyle light, calm premium atmosphere.
+```
+
+```text
+Generate a sofa lifestyle campaign with a cream-colored couch in a minimalist living room. Afternoon sunlight, long shadows, elevated but livable home-brand tone.
+```
+
+```text
+Create a premium bottled tea ad with a glass cold-brew bottle on pale stone, a few tea leaves nearby, light vapor, and a fresh restrained wellness aesthetic.
+```
+
+```text
+Generate a high-end olive-oil packaging visual with the bottle and paper box placed side by side against a soft beige background. Clean label, editorial food-brand polish.
+```
+
+```text
+Create a holiday dessert gift-box ad with the box open to reveal neatly arranged sweets. Warm golden light, deep red and cream accents, festive premium campaign feel.
+```
+
+```text
+Generate a minimal home-decor catalog shot with one sculptural vase centered on a pale surface. Clean shadow, strong silhouette, design-brand directory quality.
+```

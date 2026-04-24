@@ -121,3 +121,45 @@ Create an AI design-tool dashboard with a left sidebar, top command bar, central
 ```text
 Generate a luxury architecture studio case-study page with full-screen project imagery, very little serif typography, understated captions, and staggered editorial modules. High-end portfolio website quality.
 ```
+
+## Product-style UI Directions
+
+```text
+Create an Apple-like product-website hero with vast white space, a minimal white-gray palette, one centered device, very little text, and extremely clean buttons. Premium official-website focus.
+```
+
+```text
+Generate an Apple-like product detail page with oversized product photography, tiny refined headlines, minimal spec cards, and breathing-room section spacing. Almost no decoration.
+```
+
+```text
+Create a Stripe-like SaaS homepage with a strong hero layout, interwoven graphics and product UI, subtle gradients, geometric sectioning, and a trustworthy fintech feeling.
+```
+
+```text
+Generate a Stripe-like payments product page with a bold headline, explanatory copy, modular feature cards, process diagrams, and a semi-abstract background system. Developer-product clarity with premium polish.
+```
+
+```text
+Create a Linear-like product homepage with a dark background, restrained typography, fine hierarchy, minimal product previews, and a strong sense of speed, focus, and luxury productivity.
+```
+
+```text
+Generate a Linear-like changelog page with a dark interface, dense but readable hierarchy, timeline-style entries, tiny icons, and a calm reading rhythm.
+```
+
+```text
+Create a Notion-like knowledge-management interface with a wide white canvas, black and gray typography, clear document hierarchy, block-based modules, and quiet practical spacing.
+```
+
+```text
+Generate a Notion-like team workspace with a left directory tree, central document canvas, and a right-side database or task panel. Minimal palette, stable structure, real collaborative-tool energy.
+```
+
+```text
+Create an Apple-like dark-mode music player with a black background, oversized album art, very few controls, subtle glow, and restrained glass-like refinement.
+```
+
+```text
+Generate an AI SaaS homepage blending Stripe and Linear cues: clear layout, restrained color, subtle gradients, fine borders, and product-preview cards. Modern, cool, and highly polished.
+```

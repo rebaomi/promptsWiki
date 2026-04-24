@@ -119,3 +119,45 @@ Generate a minimal collector-card-style poster based on [character name / story 
 ```text
 Create an epic fantasy movie poster of two warriors standing back to back in a frozen storm. On the left, a battle-worn male warrior with wet curly dark hair bows his head in quiet resolve while gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak. On the right, a powerful female warrior in profile glows with fiery orange light, her body partially engulfed in flame against the icy blue atmosphere. Snow swirls through the air, blending fire and ice in symbolic conflict. Ultra-detailed faces, volumetric fog, cinematic light, cold blue tones mixed with warm fire highlights, sharp focus, premium fantasy poster finish.
 ```
+
+## Web-inspired Additions III
+
+```text
+Generate a destiny-rivals poster with two complex opponents standing face to face, separated only by a razor-thin beam of light. Let each side’s worldbuilding bleed subtly into the other, creating fate, conflict, and entanglement.
+```
+
+```text
+Create a mentor-and-protege collector poster with an older character in large side-profile foreground and the younger character standing smaller in the background. Connect them through a weapon, symbol, or memory scene.
+```
+
+```text
+Generate a former-partners-turned-enemies poster: two characters stand back to back but glance slightly over their shoulders. Include a cracked emblem, fragments of old photos, and ghostly traces of past shared battles.
+```
+
+```text
+Create a ruler-and-heir poster with the reigning figure above in monumental stillness and the younger successor below facing a ruined throne or ceremonial space. Emphasize legacy and transfer of destiny.
+```
+
+```text
+Generate a lovers-and-destined-enemies poster where the two characters stand close but do not meet each other’s gaze. One half of the background holds tender memories, the other half a battlefield.
+```
+
+```text
+Create a three-character relationship-triangle poster with one central lead in the foreground and two supporting figures behind to each side. Use temperature contrast and symbolic objects to imply alliance, betrayal, or emotional tension.
+```
+
+```text
+Generate a mirror-self collector poster with the same character split into luminous and corrupted versions. Divide them with a reflective surface, waterline, or broken glass motif for a premium contrast effect.
+```
+
+```text
+Create a family-ensemble prestige poster with a dynasty of characters arranged in clear hierarchy around the central lead. Blend in estate architecture, crests, letters, and hidden conflict cues.
+```
+
+```text
+Generate a hero-and-city relationship poster where the protagonist’s silhouette contains the entire city: bridges, lights, skyline, riots, and rescue scenes. Emphasize the idea that the character and world are inseparable.
+```
+
+```text
+Create a villain collector poster with a single centered antagonist in elegant restraint. Inside the silhouette, merge their faction, symbolic animal, landmark architecture, and traces of destruction. Dangerous, charismatic, premium.
+```
