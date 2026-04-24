@@ -143,3 +143,55 @@ Create a holiday dessert gift-box ad with the box open to reveal neatly arranged
 ```text
 Generate a minimal home-decor catalog shot with one sculptural vase centered on a pale surface. Clean shadow, strong silhouette, design-brand directory quality.
 ```
+
+## Industry Collection
+
+### Beauty
+
+```text
+Create a premium serum-brand hero with a frosted dropper bottle on pale travertine, warm white daylight, beige and soft gray palette, clean-beauty homepage quality.
+```
+
+```text
+Generate a cosmetics single-product ad with a lipstick placed diagonally against a cream background. Precise metal reflections, visible lipstick texture, fashion-beauty campaign energy.
+```
+
+### Home
+
+```text
+Create a home-lighting ad with a modern table lamp on a wooden side table inside a muted living-room setting. Warm evening glow, understated lifestyle comfort.
+```
+
+```text
+Generate a bedding-brand hero with white linens in a daylight-filled bedroom. Gentle folds, tactile fabric detail, high-end home-catalog feel.
+```
+
+### Jewelry
+
+```text
+Create a luxury ring ad placing a diamond ring between dark velvet and pale stone for material contrast. Focused light on the facets, collector-grade elegance.
+```
+
+```text
+Generate a pearl-earring brand visual with pearl and metal earrings floating against a soft gray background. Gentle light, refined warmth, premium jewelry homepage key visual.
+```
+
+### Food
+
+```text
+Create a premium chocolate detail hero with neatly arranged chocolate squares on a dark brown background, touches of gold leaf and cocoa dust, focused luxury lighting.
+```
+
+```text
+Generate a handmade-cookie gift-box ad with the box open and filled with neatly arranged cookies. Cream and caramel palette, warm holiday-commercial mood.
+```
+
+### Mixed Lifestyle
+
+```text
+Create a premium gift-store homepage visual with diffuser, tea bottle, ceramics, and small decorative objects arranged on warm-toned pedestals in one cohesive lifestyle composition.
+```
+
+```text
+Generate a concept-store campaign image where jewelry, candles, skincare, and paper packaging are layered together in one refined still life. Unified palette, elevated boutique-ad quality.
+```

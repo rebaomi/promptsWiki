@@ -91,3 +91,45 @@ Create a retro VHS sci-fi poster with heavy grain, purple-blue neon, blown highl
 ```text
 Generate a European-festival cold-drama poster with a single figure crossing a vast concrete space in pale winter light. Minimal composition, compressed color, emotional distance, elegant restraint.
 ```
+
+## Director-style Poster Collection
+
+```text
+Create a Villeneuve-style poster with monumental scale, a solitary lead, and background consumed by sand or fog. Strong warm-cool blocks, solemn emptiness, heavy atmosphere.
+```
+
+```text
+Generate a Fincher-style poster with low-saturation black-green tones, severely restrained expressions, oppressive space, and icy precision in every detail. Official crime-psychology poster feeling.
+```
+
+```text
+Create a Tarantino-style poster with hard contrast, saturated red-yellow-black palette, highly stylized characters, and a hint of retro exploitation-cinema swagger.
+```
+
+```text
+Generate a Wes Anderson-style poster with rigid symmetry, tidy retro pastel colors, theatrical character placement, and a refined eccentric collector-print feel.
+```
+
+```text
+Create a David Lynch-style poster where an ordinary room becomes quietly impossible. Red curtain, dark corners, mixed cold and warm light, dream-nightmare instability.
+```
+
+```text
+Generate a Sofia Coppola-style poster with soft pink-gray tones, emotionally distant characters, luxurious yet empty space, and youthful ennui.
+```
+
+```text
+Create a Park Chan-wook-style poster with elegant yet dangerous character poses, lush oppressive composition, rich colors, and precisely chosen props and symbols.
+```
+
+```text
+Generate a Bong Joon-ho-style poster where class hierarchy is visible in the staging of people and space. Real environment, subtle satire, underlying unease.
+```
+
+```text
+Create a Michael Mann-style poster with a blue-silver night city, controlled crime-film coolness, characters and architecture in sharp modern alignment.
+```
+
+```text
+Generate a Guillermo del Toro-style poster with dark gold and deep blue tones, gothic architecture, damp air, fantasy creatures, and romantic monstrosity.
+```

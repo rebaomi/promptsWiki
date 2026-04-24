@@ -163,3 +163,45 @@ Create an Apple-like dark-mode music player with a black background, oversized a
 ```text
 Generate an AI SaaS homepage blending Stripe and Linear cues: clear layout, restrained color, subtle gradients, fine borders, and product-preview cards. Modern, cool, and highly polished.
 ```
+
+## Brand-style UI Collection
+
+```text
+Create an Apple-style hardware website with a white background, oversized product photography, almost no text, huge negative space, subtle shadows, and premium industrial-design focus.
+```
+
+```text
+Generate an Apple-style product comparison page with multiple devices side by side, minimal specs, quiet layout rhythm, and official-launch-page polish.
+```
+
+```text
+Create a Stripe-style developer homepage with gradient geometry, code and product UI side by side, rigorous structure, and strong infrastructure-product trust.
+```
+
+```text
+Generate a Stripe-style payments flow page with payment cards, settlement steps, currencies, and transaction states layered clearly across the design. Modern and logically precise.
+```
+
+```text
+Create a Linear-style task-management homepage with a dark background, fine typography hierarchy, minimal navigation, refined cards, and a luxury-efficiency feeling.
+```
+
+```text
+Generate a Linear-style issue board with dark neutrals, delicate dividers, and minimal task cards that still feel highly readable and professional.
+```
+
+```text
+Create a Notion-style personal knowledge-base interface with white background, black type, block editor modules, left tree navigation, and a calm spacious document canvas.
+```
+
+```text
+Generate a Notion-style project-management view combining document and database layouts, with organized task properties and a very restrained functional aesthetic.
+```
+
+```text
+Create an Apple-plus-Notion hybrid notes app homepage with a minimal white system, gentle rounded cards, lots of breathing room, and quiet premium structure.
+```
+
+```text
+Generate a Stripe-plus-Linear hybrid AI collaboration platform with restrained neutrals, subtle gradients, precise cards and charts, and mature B2B product polish.
+```
