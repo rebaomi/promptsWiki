@@ -7,6 +7,7 @@
 - 英文说明: [README.en.md](./README.en.md)
 - 中文说明: [README.zh.md](./README.zh.md)
 - 按用途导航: [USE-CASES.md](./USE-CASES.md)
+- 按平台导航: [PLATFORMS.md](./PLATFORMS.md)
 
 ## 目录结构
 
