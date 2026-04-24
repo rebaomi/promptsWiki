@@ -65,3 +65,45 @@ Draw a dynamic anime action shot of a teenage hero sprinting forward through a c
 ```text
 Create a surreal anime illustration in a psychological film style. Keep the central character but reimagine the scene as if reality and dream are collapsing into each other. Let the background shift seamlessly from a normal city street into a film set with no clear boundary. Add subtle dissociative details such as mirrors reflecting different expressions, slightly duplicated faces, or warped architectural space. Use saturated color, artificial lighting, dramatic shadows, and neon tones. The final result should feel like a frame from a sophisticated psychological anime film.
 ```
+
+## Web-inspired Additions II
+
+```text
+Create a cyber-urban anime character sheet with a short silver-haired girl in a black technical jacket, full-body composition, cyan neon edge light, and only subtle futuristic street hints in the background.
+```
+
+```text
+Generate a slice-of-life anime scene outside a convenience store on a humid summer night. Warm store light spills onto the sidewalk while two students stand near a vending machine. Calm blue-yellow contrast, quiet atmosphere.
+```
+
+```text
+Create a shonen-style storm poster with a teenage hero standing on a rooftop under massive clouds, coat and hair blown by violent wind, lightning briefly outlining the silhouette.
+```
+
+```text
+Generate a healing morning-kitchen illustration with a girl holding toast and milk in soft sunlight. Cream, pale yellow, and warm white palette, everyday domestic warmth, polished anime rendering.
+```
+
+```text
+Create a dark gothic anime portrait with a black-haired character, restrained expression, deep red and black background, subtle cathedral motifs, and a refined oppressive mood.
+```
+
+```text
+Generate a fantasy giant-tree temple environment with roots wrapping around stone steps, blue-green mist, distant lanterns, and a tiny figure for scale, like a premium RPG anime background.
+```
+
+```text
+Create a mecha maintenance hangar scene with a giant robot standing on a service platform, industrial lights, steam, warning stripes, and crisp mechanical scale.
+```
+
+```text
+Generate a school-rooftop duo poster at dusk with two characters standing back to back, uniforms and hair moving in the wind, strong orange-blue contrast, anime key-visual quality.
+```
+
+```text
+Create a shrine maiden character image after rain: white-and-red miko outfit, wet stone reflections, wooden corridors, faint lantern glow, and gentle drifting mist, elegant and classical.
+```
+
+```text
+Generate a high-energy anime combat close-up frozen mid-swing, with readable impact lines, fragments of light, wind pressure, concentrated framing, and an intense facial expression.
+```

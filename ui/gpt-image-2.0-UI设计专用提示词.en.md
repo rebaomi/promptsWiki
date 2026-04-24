@@ -79,3 +79,45 @@ Generate a feature section design for an AI note-taking app website. Show a spli
 ```text
 Create a premium editorial ecommerce landing page for a fragrance brand called AREANE N°7, or replace with a custom brand name. Use a high-end minimalist modern editorial style, a desktop portrait homepage screenshot framed against a dark olive-brown outer background, and a calm gallery-like layout with abundant negative space. Include a hero section with large cinematic beauty imagery lit by warm amber light, a tiny centered headline, a subtle CTA button, a three-column product-card row, an editorial mixed-image grid, body-care and face-care slider sections, and a minimal footer. Use a palette of warm cream, stone, deep olive, espresso brown, and amber accents. Keep the UI clean, luxurious, and restrained, with no heavy interface chrome and no clutter.
 ```
+
+## Web-inspired Additions II
+
+```text
+Create a premium fintech landing page with a deep navy and off-white palette. Show card visuals, account trend graphs, security cues, and generous spacing, with the polish of a mature financial technology brand.
+```
+
+```text
+Generate a homepage for an AI prompt community platform featuring saved prompts, remix cards, creator profiles, and collaborative prompt sections. Minimal black, white, and graphite palette with a few electric accents, futuristic but usable.
+```
+
+```text
+Create a high-end skincare ecommerce homepage with soft natural tones, oversized product photography, ingredient modules, customer reviews, and clean product cards. Calm, bright, modern beauty-brand website quality.
+```
+
+```text
+Generate an AI writing-tool landing page with a left-copy right-product-preview hero, followed by feature modules, template sections, and testimonial blocks. Premium SaaS polish with a Stripe or Linear-like sense of clarity.
+```
+
+```text
+Create a redesigned banking app home screen with card-balance panels, spending stats, transfer shortcuts, and investment entry points. White base, deep blue, and subtle green accents, strong information hierarchy, App-Store-quality finish.
+```
+
+```text
+Generate a portfolio presentation page with multiple floating mockups arranged on a clean background, styled like a Behance cover. High-end layout control, sophisticated hierarchy, and strong visual pacing.
+```
+
+```text
+Create a health-tech website homepage using soft green and warm cream tones. Show a product device hero, key data cards, and a reassuring medical-tech design language that feels modern but not cold.
+```
+
+```text
+Generate a dark-mode music app interface with large album artwork, playback controls, curated playlists, and bottom navigation. Black background with tasteful neon accents, modern and brand-forward.
+```
+
+```text
+Create an AI design-tool dashboard with a left sidebar, top command bar, central generation-history cards, and a right-side preview panel. Blend the clarity of Figma and Notion with a more creative studio feel.
+```
+
+```text
+Generate a luxury architecture studio case-study page with full-screen project imagery, very little serif typography, understated captions, and staggered editorial modules. High-end portfolio website quality.
+```

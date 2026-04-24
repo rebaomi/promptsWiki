@@ -50,3 +50,44 @@ Create a dreamy urban romance poster with two lovers separated by a train window
 Generate a minimalist psychological-drama poster with one unsettling domestic object placed in a quiet room, inspired by A24 and contemporary festival cinema. Sparse composition, naturalistic light, muted palette, ambiguous emotional charge, lots of negative space, tiny restrained title placement, premium arthouse finish.
 ```
 
+## Web-inspired Additions II
+
+```text
+Create a Hong Kong neon crime poster with rain-soaked asphalt, red and green signage, dense urban texture, and a close-up lead character. The mood should feel like a restored 1990s triad-thriller one-sheet.
+```
+
+```text
+Generate a heartbreak poster in a Wong Kar-wai-inspired mood: a lonely character at a convenience-store fridge, green and red light bleeding together, subtle motion smear, humid melancholy, intimate framing.
+```
+
+```text
+Create a Nolan-style sci-fi suspense poster with a lone figure facing a massive geometric concrete structure, dramatic sky pressure, muted steel and sand tones, and a subtle sense of time displacement.
+```
+
+```text
+Generate a cyberpunk wanted-poster-style image with a protagonist in close-up, UI projections across the face, glitch artifacts, neon edge light, and a dense futuristic city behind them.
+```
+
+```text
+Create an A24-like domestic psychological-horror poster set in an ordinary living room with one subtly unsettling object, soft natural light, large negative space, and quiet but disturbing emotional tone.
+```
+
+```text
+Generate an East Asian youth-crime poster with a motorcycle, a night bridge, sodium streetlights, humid air, and a young lead with a restrained expression. Low-saturation blue-gray danger and melancholy.
+```
+
+```text
+Create a post-apocalyptic road-movie poster with an empty highway, dust, an abandoned gas station, a lone back-facing figure, and low sunset light. Somewhere between indie melancholy and blockbuster scale.
+```
+
+```text
+Generate a religious-symbolic thriller poster with a figure in deep darkness lit only by a vertical shaft of cold light. Slight reflections or water on the floor, solemn, mysterious, and severe.
+```
+
+```text
+Create a retro VHS sci-fi poster with heavy grain, purple-blue neon, blown highlights, analog tape noise, and a protagonist posed with a giant moon or CRT monitor, like a 1980s video-cover artwork.
+```
+
+```text
+Generate a European-festival cold-drama poster with a single figure crossing a vast concrete space in pale winter light. Minimal composition, compressed color, emotional distance, elegant restraint.
+```

@@ -60,3 +60,44 @@ Create a square social ad visual for a luxury serum bottle floating above a warm
 Generate a vertical 4:5 product campaign image of a matte black perfume bottle against a dark charcoal gradient background with subtle haze. Dramatic top light, elegant reflections, strong focal point, premium luxury branding tone, clean negative space above and below for ad copy, no duplicate products, no decorative distractions.
 ```
 
+## Web-inspired Additions II
+
+```text
+Create a luxury fragrance ad with an amber glass perfume bottle on a cream stone pedestal. Soft haze, editorial negative space, warm amber and deep olive palette, premium minimalist beauty-campaign feel, no extra props.
+```
+
+```text
+Generate a clean beauty hero image showing a refillable skincare bottle set on a pale beige seamless background. Soft frontal light, restrained palette, sustainable premium packaging focus, refined DTC brand aesthetic.
+```
+
+```text
+Create a luxury still life of a brushed steel watch and a dark brown leather wallet on a charcoal stone slab. Controlled side light, mature understated palette, premium menswear-accessory ad tone.
+```
+
+```text
+Generate a performance running shoe ad with the sneaker floating above a light gray backdrop. Subtle shadow below, crisp mesh, foam, and outsole detail, international sports-brand commercial polish.
+```
+
+```text
+Create a minimal haircare campaign with off-white shampoo and conditioner bottles on pale travertine platforms. Soft daylight, slight moisture in the air, cream, gray, and misty blue palette, clean premium beauty look.
+```
+
+```text
+Generate a premium chocolate gift-box ad showing a deep brown box slightly open with a few chocolates neatly arranged nearby. Warm spotlighting, restrained gold accents, high-end seasonal food campaign aesthetic.
+```
+
+```text
+Create an ultra-clean home-appliance hero visual with a white air purifier in a modern living-room corner. Soft daylight through curtains, generous negative space, subtle luxury tech-brand feel.
+```
+
+```text
+Generate a minimalist jewelry campaign image with a single gold ring standing upright against a cream background. Focused top light, crisp highlight on the edge, elegant shadow, collector-grade luxury mood.
+```
+
+```text
+Create a premium coffee machine lifestyle ad with a matte black espresso machine on a minimalist kitchen counter. Morning slant light, controlled reflections, very few supporting props, high-end home appliance campaign quality.
+```
+
+```text
+Generate a social-ad cover image for a three-piece skincare set floating over a warm beige gradient background. Soft shadow underneath, centered composition, clean negative space for marketing copy, polished campaign finish.
+```
