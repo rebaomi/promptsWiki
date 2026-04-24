@@ -60,3 +60,12 @@ Create an editorial couple portrait of two young adults standing under evening c
 Generate a warm natural portrait of a couple sitting on a sofa in a bright living room on a quiet morning. Soft window light, relaxed posture, understated clothing, intimate but not overly posed, lifestyle magazine aesthetic, realistic skin and fabric texture, no clutter, no extra family members.
 ```
 
+## Web-inspired Additions
+
+```text
+Create a cinematic portrait of a young woman sitting alone on a subway platform bench, centered in the frame, looking directly at the camera with a calm, slightly serious expression. She wears an oversized dark green coat, a light sweater, light blue jeans, and black boots. A subway train rushes past behind her in strong motion blur, creating contrast between stillness and speed. Shallow depth of field, soft natural light, muted urban tones, 50mm lens feel, subtle long-exposure energy, symmetrical composition, professional movie-still realism.
+```
+
+```text
+Generate a cinematic storyboard grid showing multiple camera angles of the same character in the same urban setting. Use a 3x4 layout with close-up, extreme close-up, low angle, over-the-shoulder, tracking shot, bird’s-eye view, wide establishing shot, and Dutch angle variations. Keep the same face, outfit, and hairstyle across all frames. Modern spy-thriller mood, realistic skin texture, professional film lighting, cinematic color grading, sharp focus, cohesive character identity, premium storyboard presentation.
+```

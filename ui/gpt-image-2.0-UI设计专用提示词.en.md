@@ -74,3 +74,8 @@ Create a pricing page design for a SaaS website with three pricing tiers, a clea
 Generate a feature section design for an AI note-taking app website. Show a split layout with product screenshots on one side and concise feature descriptions on the other, supported by small icons and subtle connecting lines. Premium landing page style, modern minimal interface, clear spacing, no random decoration, no text chaos.
 ```
 
+## Web-inspired Additions
+
+```text
+Create a premium editorial ecommerce landing page for a fragrance brand called AREANE N°7, or replace with a custom brand name. Use a high-end minimalist modern editorial style, a desktop portrait homepage screenshot framed against a dark olive-brown outer background, and a calm gallery-like layout with abundant negative space. Include a hero section with large cinematic beauty imagery lit by warm amber light, a tiny centered headline, a subtle CTA button, a three-column product-card row, an editorial mixed-image grid, body-care and face-care slider sections, and a minimal footer. Use a palette of warm cream, stone, deep olive, espresso brown, and amber accents. Keep the UI clean, luxurious, and restrained, with no heavy interface chrome and no clutter.
+```

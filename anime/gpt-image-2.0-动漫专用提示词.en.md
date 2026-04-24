@@ -60,3 +60,8 @@ Create a warm slice-of-life anime illustration of a girl watering plants on a sm
 Draw a dynamic anime action shot of a teenage hero sprinting forward through a city street, jacket flaring, determined expression, debris and light streaks controlled and readable. Strong perspective, punchy red-blue contrast, polished shonen anime style, clean anatomy, no extra limbs, no clutter.
 ```
 
+## Web-inspired Additions
+
+```text
+Create a surreal anime illustration in a psychological film style. Keep the central character but reimagine the scene as if reality and dream are collapsing into each other. Let the background shift seamlessly from a normal city street into a film set with no clear boundary. Add subtle dissociative details such as mirrors reflecting different expressions, slightly duplicated faces, or warped architectural space. Use saturated color, artificial lighting, dramatic shadows, and neon tones. The final result should feel like a frame from a sophisticated psychological anime film.
+```

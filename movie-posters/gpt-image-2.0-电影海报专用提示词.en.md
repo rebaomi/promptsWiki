@@ -113,3 +113,9 @@ Generate an ensemble epic poster based on [core cast / character list]. Use a cl
 ```text
 Generate a minimal collector-card-style poster based on [character name / story theme]. Use an extremely restrained vertical composition with a single dominant subject: either one central character, a silhouette, an emblematic pose, or one iconic symbolic object. Surround it with large negative space and a highly curated minimal design language. Only include a few precise supporting elements, such as one weapon, one sigil, one beam of light, one crack, a trace of mist, or a tiny environmental motif. The overall design should feel premium, graphic, collectible, and intentionally sparse, like a limited-edition art card, museum poster, or boutique official merchandise print. Typography should be minimal: perhaps one very short line at the top and only the character name, numbering, or a discreet emblem at the bottom. Subtle paper grain, embossing, foil accents, or tactile print texture may be included.
 ```
+
+## Web-inspired Additions
+
+```text
+Create an epic fantasy movie poster of two warriors standing back to back in a frozen storm. On the left, a battle-worn male warrior with wet curly dark hair bows his head in quiet resolve while gripping a medieval sword planted into the ice. Frost and snow cling to his fur-lined cloak. On the right, a powerful female warrior in profile glows with fiery orange light, her body partially engulfed in flame against the icy blue atmosphere. Snow swirls through the air, blending fire and ice in symbolic conflict. Ultra-detailed faces, volumetric fog, cinematic light, cold blue tones mixed with warm fire highlights, sharp focus, premium fantasy poster finish.
+```
